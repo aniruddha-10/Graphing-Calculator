@@ -294,3 +294,5 @@ def main():
         equation_counter += 1
 main()
 turtle.exitonclick()
+
+print("hello")
